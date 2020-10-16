@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Lessons_15" type="Application" factoryName="Application" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="Lessons_15" />
+    <module name="lessons" />
+    <RunnerSettings RunnerId="Run" />
+    <ConfigurationWrapper RunnerId="Run" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
